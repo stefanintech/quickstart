@@ -1,0 +1,4 @@
+baseURL = 'https://stefantaitano.com/'
+languageCode = 'en-us'
+title = 'Production Title for Stefan'
+theme = 'ananke'
